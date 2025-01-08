@@ -1,3 +1,3 @@
 # THIS IS A DEMO REPOSITRY
-## the second line
+## This is my practice for programs 
 author: darshan
