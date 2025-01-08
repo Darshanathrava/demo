@@ -1,3 +1,3 @@
-# this is a demo repositry
+# THIS IS A DEMO REPOSITRY
 ## the second line
 author: darshan
